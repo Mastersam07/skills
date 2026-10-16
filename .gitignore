@@ -1,0 +1,14 @@
+.dart_tool/
+build/
+pubspec.lock
+.DS_Store
+.idea/
+*.iml
+
+.config/dart_skills/
+**/.agents/
+**/.claude/
+**/.cline/
+**/.cursor/
+**/.opencode/
+**/.github/skills/
