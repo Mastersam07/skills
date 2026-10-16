@@ -1,0 +1,10 @@
+name: mosho_topup
+description: A tiny airtime and data top-up SDK for Nigerian phone numbers, built for the "Your Next User Is an Agent" workshop.
+version: 0.1.0
+repository: https://github.com/Mastersam07/mosho-workshop
+
+environment:
+  sdk: ^3.13.0
+
+dev_dependencies:
+  test: ^1.26.0
